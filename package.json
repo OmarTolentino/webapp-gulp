@@ -1,0 +1,13 @@
+{
+  "name": "webapp-gulp",
+  "title": "aplicacion web con glup",
+  "version": "1.0.0",
+  "author": "Omar Tolentino",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "start-dev": "gulp "
+  }
+}
